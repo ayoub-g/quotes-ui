@@ -1,0 +1,37 @@
+h3 {
+    text-align: right;
+}
+
+.quote-main {
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 90%;
+    margin-top: 50px;
+}
+
+.quote-container {
+    height: 70vh;
+    line-height: 2.2em;
+}
+
+img {
+    width: 40px;
+    margin: 0;
+    padding: 0;
+}
+
+.nav {
+    margin-top: 1em;
+    width: 60%;
+    display: flex;
+    direction: row;
+    justify-content: center;
+    align-items: flex-end;
+}
+
+.nav div {
+    width: 100%;
+}
